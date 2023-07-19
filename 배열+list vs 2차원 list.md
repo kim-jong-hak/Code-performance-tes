@@ -9,6 +9,8 @@
 2차원 list를 선호하시고 접근이 빠를 수 있다는데……. 
 로직이 엄청 복잡한 경우에 효과는 있을꺼 같지만.. 일단 간단한 예제로 실험해 보자!
 
+
+
 ### 2차원 리스트를 이용한 로직
 
 ```java
@@ -87,6 +89,7 @@ public class dfs {
 3 4
 4 6
 ```
+
 
 ### 배열+list 이용한 로직
 
@@ -170,23 +173,23 @@ System.out.println(count);
 
 ### 2차원 리스트 [시간 측정 결과]
 
-<aside>
-📌 1번째 : Execution Time: 1707 milliseconds
+
+1번째 : Execution Time: 1707 milliseconds
 2번째 : Execution Time: 5534 milliseconds
 3번째 : Execution Time: 2977 milliseconds
 4번째 : Execution Time: 2444 milliseconds
 
-</aside>
+
 
 ### 배열+list [시간 측정 결과]
 
-<aside>
-📌 1번째 : Execution Time: 10118 milliseconds
+
+1번째 : Execution Time: 10118 milliseconds
 2번째 : Execution Time: 1623 milliseconds
 3번째 : Execution Time: 1123 milliseconds
-Execution Time: 1984 milliseconds
+4번째 : Execution Time: 1984 milliseconds
 
-</aside>
+
 
 <aside>
 📌 결론: 예상대로 배열+list가 더 빠르다.. ^^ 맞겠지?
