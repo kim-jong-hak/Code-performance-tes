@@ -181,11 +181,10 @@ System.out.println(count);
 |4번째 : Execution Time: 2444 milliseconds|
 
 
-
+--------
 
 | 배열+list [시간 측정 결과] |
 |:--:|
-
 |1번째 : Execution Time: 10118 milliseconds|
 |2번째 : Execution Time: 1623 milliseconds|
 |3번째 : Execution Time: 1123 milliseconds|
